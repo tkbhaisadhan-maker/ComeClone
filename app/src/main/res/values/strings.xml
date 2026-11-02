@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app_name build.gradle (APP_NAME) se aata hai -->
+    <string name="unsupported_link">No app can open this link.</string>
+    <string name="offline_fallback">Opening in browser…</string>
+</resources>
